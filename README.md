@@ -1,8 +1,8 @@
-# React + Vite
+# stock-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Stock app is a product managament system that you can make crud process. And this repo is the frontend side of the project.
+## [Click to see live link](https://stockapi-fs-frontend.vercel.app/)
 
-Currently, two official plugins are available:
+## This is how the site looks like.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![./stockapp.gif](./stockapp.gif)
